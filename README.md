@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uday, a Cloud Security and DevOps Luminary (Ex-Visa/AWS/Akamai/Sophos employee)
+- 👋 Hi, I’m Uday, a Cloud Security and DevOps Luminary (Ex-Visa/AWS/Akamai/Sophos)
 - 👀 I’m interested in Cloud/Network Security
 - 🌱 I’m currently learning Containers
 - 👨‍🔬 Seasoned Security Engineer with 10+ years of experience in Architecting/Implementing Cloud/Security/Network/CDN Solutions.
